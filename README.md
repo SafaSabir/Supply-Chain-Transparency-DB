@@ -21,7 +21,7 @@ The **Supply Chain Transparency System** is a robust database solution designed 
 ---
 
 ## 🛠️ Tech Stack & Tools
-- **Database Management System:** MySQL*
+- **Database Management System:** MySQL
 - **Modeling & Design:** Draw.io and  Handwritten Schemas
 
 ---
